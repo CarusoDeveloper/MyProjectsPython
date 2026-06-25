@@ -1,0 +1,13 @@
+# Ignorar arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignorar ambientes virtuais (caso use)
+venv/
+.venv/
+env/
+
+# Ignorar pastas de configuração de IDEs
+.vscode/
+.idea/
